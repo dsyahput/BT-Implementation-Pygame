@@ -27,4 +27,4 @@ python3 main.py
 ## Simulation Preview
 
 Below is the preview of the simulation window when running the program:
-![preview](images\preview.png)
+![preview](images/preview.png)
